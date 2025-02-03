@@ -59,7 +59,7 @@ app.all('/player/*', function (req, res) {
 });
 
 app.get('/', function (req, res) {
-    res.send('Hello World!');
+    res.send('Halo Memek Anj Kontot');
 });
 
 app.listen(5000, function () {
